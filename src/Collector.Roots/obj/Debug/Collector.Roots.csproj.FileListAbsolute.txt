@@ -1,0 +1,6 @@
+C:\Users\Janier\Desktop\Code Camp 2016\CodeCamp.Demo\Collector.Roots\bin\Debug\Collector.Roots.exe.config
+C:\Users\Janier\Desktop\Code Camp 2016\CodeCamp.Demo\Collector.Roots\bin\Debug\Collector.Roots.exe
+C:\Users\Janier\Desktop\Code Camp 2016\CodeCamp.Demo\Collector.Roots\bin\Debug\Collector.Roots.pdb
+C:\Users\Janier\Desktop\Code Camp 2016\CodeCamp.Demo\Collector.Roots\obj\Debug\Collector.Roots.csprojResolveAssemblyReference.cache
+C:\Users\Janier\Desktop\Code Camp 2016\CodeCamp.Demo\Collector.Roots\obj\Debug\Collector.Roots.exe
+C:\Users\Janier\Desktop\Code Camp 2016\CodeCamp.Demo\Collector.Roots\obj\Debug\Collector.Roots.pdb

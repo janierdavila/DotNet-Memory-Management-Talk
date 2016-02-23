@@ -1,0 +1,6 @@
+C:\Users\Janier\Desktop\Code Camp 2016\CodeCamp.Demo\GC.API\bin\Debug\Collector.API.exe.config
+C:\Users\Janier\Desktop\Code Camp 2016\CodeCamp.Demo\GC.API\bin\Debug\Collector.API.exe
+C:\Users\Janier\Desktop\Code Camp 2016\CodeCamp.Demo\GC.API\bin\Debug\Collector.API.pdb
+C:\Users\Janier\Desktop\Code Camp 2016\CodeCamp.Demo\GC.API\obj\Debug\Collector.API.csprojResolveAssemblyReference.cache
+C:\Users\Janier\Desktop\Code Camp 2016\CodeCamp.Demo\GC.API\obj\Debug\Collector.API.exe
+C:\Users\Janier\Desktop\Code Camp 2016\CodeCamp.Demo\GC.API\obj\Debug\Collector.API.pdb
